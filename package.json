@@ -1,6 +1,6 @@
 {
   "name": "ftpd",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "description": "Node FTP Server",
   "main": "./ftpd.js",
   "scripts": {
